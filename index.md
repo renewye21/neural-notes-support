@@ -13,8 +13,8 @@ Questions, bug reports and suggestions are welcome at the address above.
 
 ## 자주 묻는 질문 · FAQ
 
-- **메모가 어디에 저장되나요?** 이 아이폰 안에만 있습니다. 설정에서 iCloud 동기화를 켜면 본인 iCloud에도 함께 둡니다.
-  **Where are my notes stored?** Only on your iPhone. If you turn on iCloud sync in Settings, they are also kept in your own iCloud.
+- **메모가 어디에 저장되나요?** 이 아이폰 안에만 있습니다. 다른 곳에 두고 싶으면 설정 › 백업으로 파일을 내보내세요.
+  **Where are my notes stored?** Only on your iPhone. To keep a copy elsewhere, export a file from Settings › Backup.
 - **백업은 어떻게 하나요?** 설정 › 백업에서 파일 하나로 내보내고, 같은 곳에서 되살릴 수 있습니다.
   **How do I back up?** Settings › Backup exports everything to a single file, and you can restore it from the same place.
 
