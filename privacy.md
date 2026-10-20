@@ -1,6 +1,6 @@
 # 뉴럴노트 개인정보처리방침 · Neural Notes Privacy Policy
 
-마지막 수정: 2026-10-15
+마지막 수정: 2026-10-20
 
 **요약: 뉴럴노트는 개인정보를 수집하지 않습니다.** 계정이 없고, 분석 도구·광고·추적이 없고, 개발자가 운영하는 서버도 없습니다. 메모는 이 기기 안에만 있습니다.
 
@@ -14,6 +14,7 @@
 - 메모를 잇는 계산(비슷한 메모 찾기, 뜻으로 찾기, 갈래, 지도)은 전부 기기 안에서 합니다. 이 계산을 위해 글을 밖으로 보내지 않습니다.
 - Siri로 말한 내용은 Apple이 받아 적습니다(Apple의 방침을 따릅니다). 받아 적은 글과 단축어로 적은 글은 앱을 열 때까지 기기 안의 앱 설정 영역(UserDefaults)에 잠시 보관했다가 메모로 옮깁니다.
 - 연결을 치우고 이은 기록으로 연결을 고르는 학습(가지치기)도 기기 안에서 합니다. 학습 기록과 판은 기기 밖으로 나가지 않습니다.
+- 홈 화면 지도 위젯을 쓰면, 지도를 열 때마다 점 자리·주제 색·연결 선을 기기 안의 앱·위젯 공유 영역(App Group)에 적어 위젯이 읽습니다. 메모가 바뀌면 지도가 낡았다고 알리도록 잠그지 않은 메모 수와 마지막으로 쓰거나 고친 시각도 적습니다. 메모 제목과 주제 이름은 **설정 → 위젯에 메모 제목 보이기**를 켠 경우에만 적고, 끄면 바로 지웁니다. 잠근 메모는 점 하나도 적지 않습니다. 기기 밖으로 나가지 않습니다.
 - 잠근 메모는 사용자가 정한 비밀번호로 기기 안에서 암호화합니다. 비밀번호는 저장하지 않으므로 잊으면 되찾을 수 없습니다. 비밀번호 힌트는 암호화하지 않습니다.
 
 ### 기기 밖으로 나가는 것
@@ -75,6 +76,7 @@ renewye21@gmail.com
 - Everything that connects your notes (similar notes, search by meaning, strands, the map) is computed on the device. Your writing is never sent anywhere for this.
 - What you say to Siri is transcribed by Apple under Apple's privacy policy. Text you capture with Siri or Shortcuts waits in the app's on-device settings storage (UserDefaults) until you next open the app, then becomes a note.
 - Learning which connections you prefer (from the connections you remove or add) also happens on the device. The learning log and its checkpoints never leave it.
+- If you use the home-screen map widget, each time you open the map the app writes dot positions, topic colors and connecting lines to an area on the device shared only between the app and its widget (App Group). So the widget can tell when the map is out of date, it also writes how many unlocked notes there are and when one was last written or edited. Note titles and topic names are written only when **Settings → Show note titles on the widget** is on, and are deleted as soon as you turn it off. Locked notes are never written, not even as a dot. None of this leaves the device.
 - Locked notes are encrypted on the device with a password you choose. The password is not stored, so it cannot be recovered if you forget it. The password hint is not encrypted.
 
 ### What else leaves your device
